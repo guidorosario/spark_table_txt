@@ -1,0 +1,46 @@
+Série;Título em Portuguê;Título Original;Exibição Original (Japão);Temático;Nº de Episódios
+1;Esquadrão Secreto Gorenger;Himitsu Sentai Gorenger;5 de Abril de 1975;Espionagem;84 episódios
+2;Equipe Relâmpago JAKQ;JAKQ Dengeki Tai;9 de Abril de 1977;Cartas de Baralho.;35 episódios
+3;Febre De Batalha J;Battle Fever J;3 de Fevereiro de 1979;Países e Dança;52 episódios
+4;Esquadrão Eletrônico Denziman;Denshi Sentai Denziman;3 de Fevereiro de 1980;Tecnologia Espacial;51 episódios
+5;Esquadrão Solar Sun Vulcan;Taiyou Sentai Sun Vulcan;7 de Fevereiro de 1981;Exército e Animais;50 episódios
+6;Gigantes Guerreiros Goggle V;Dai Sentai Goggle V;6 de Fevereiro de 1982;Ginástica Rítmica e Antigas Civilizações;50 episódios
+7;Esquadrão Científico Dynaman;Kagaku Sentai Dynaman;5 de Fevereiro de 1983;Ciência;51 episódios
+8;Super Elétron Bioman;Choudenshi Bioman;4 de Fevereiro de 1984;Vida e Tecnologia;51 episódios
+9;Esquadrão Relâmpago Changeman;Dengeki Sentai Changeman;2 de Fevereiro de 1985;Seres Mitológicos e Exército;55 episódios
+10;Comando Estelar Flashman;Choushinsei Flashman;1 de Março de 1986;Espaço e Luta contra Impérios Malignos;50 episódios
+11;Defensores da Luz Maskman;Hikari Sentai Maskman;28 de Fevereiro de 1987;Energia Espiritual;51 episódios
+12;Esquadrão Super Feras Liveman;Choujuu Sentai Liveman;27 de Fevereiro de 1988;Tecnologia e Animais;49 episódios
+13;Esquadrão de Alta Velocidade Turboranger;Kousoku Sentai Turboranger;3 de Março de 1989;Carros;51 episódios
+14;Esquadrão Terrestre Fiveman;Chikyuu Sentai Fiveman;2 de Março de 1990;Educação e Esportes;48 episódios
+15;Esquadrão Homens-Pássaros Jetman;Choujin Sentai Jetman;15 de Fevereiro de 1991;Pássaros;51 episódios
+16;Esquadrão Dinossauro Zyuranger;Kyouryuu Sentai Zyuranger;21 de Fevereiro de 1992;Animais Pré-Históricos;50 episódios
+17;Esquadrão Cinco Estrelas Dairanger;Gosei Sentai Dairanger;11 de Fevereiro de 1993;Mitologia Chinesa;50 episódios
+18;Esquadrão Ninja Kakuranger;Ninja Sentai Kakuranger;18 de Fevereiro de 1994;Ninjas;53 episódios
+19;Esquadrão Super Poderoso Ohranger;Chouriki Sentai Ohranger;3 de Março de 1995;Civilizações Antigas;48 episódios
+20;Esquadrão Acelerado Carranger;Gekisou Sentai Carranger;1 de Março de 1996;Carros;48 episódios
+21;Esquadrão Eletromagnético Megaranger;Denji Sentai Megaranger;14 de Fevereiro de 1997;Vídeo Games e Viagens Espaciais;51 episódios
+22;Esquadrão das Feras Estelares Gingaman;Seijuu Sentai Gingaman;22 de Fevereiro de 1998;Feras Estelares;50 episódios
+23;Esquadrão de Resgate GoGoV;Kyukyu Sentai Go Go V;21 de Fevereiro de 1999;Resgates;50 episódios
+24;Esquadrão do Futuro Timeranger;Mirai Sentai Timeranger;13 de Fevereiro de 2000;Viagem no Tempo;51 episódios
+25;Esquadrão das Cem Feras Gaoranger;Hyakujuu Sentai Gaoranger;18 de Fevereiro de 2001;Animais;51 episódios
+26;Esquadrão Ninjas do Vento Hurricaneger;Ninpuu Sentai Hurricanger;17 de Fevereiro de 2002;Ninjas e Elementos da Natureza;51 episódios
+27;Esquadrão Dinossauros Explosivos Abaranger;Bakuryuu Sentai Abaranger;16 de Fevereiro de 2003;Dinossauros;50 episódios
+28;Esquadrão de Investigação Dekaranger;Tokusou Sentai Dekaranger;15 de Fevereiro de 2004;Polícia do Futuro;50 episódios
+29;Esquadrão Mágico Magiranger;Mahou Sentai Magiranger;13 de Fevereiro de 2005;Magia;49 episódios
+30;Esquadrão Vibrante Boukenger;Gougou Sentai Boukenger;19 de Fevereiro de 2006;Aventuras e Relíquias;49 episódios
+31;Esquadrão Punho de Fera Gekiranger;Juuken Sentai Gekiranger;19 de Fevereiro de 2007;Artes Marciais e Animais;49 episódios
+32;Esquadrão Motorizado Go-Onger;Engine Sentai Go-Onger;18 de Fevereiro de 2008;Carros;50 episódios
+33;Esquadrão Samurai Shinkenger;Samurai Sentai Shinkenger;15 de Fevereiro de 2009;Samurais;49 episódios
+34;Esquadrão de Veste Celestial Goseiger;Tensou Sentai Goseiger;14 de Fevereiro de 2010;Anjos e Cartas;50 episódios
+35;Esquadrão Pirata Gokaiger;Kaizoku Sentai Gokaiger;13 de Fevereiro de 2011;Piratas e Transformação em Equipes de Super Sentai Anteriores;51 episódios
+36;Esquadrão de Missões Especiais Go-Busters;Tokumei Sentai Go-Busters;26 de Fevereiro de 2012;Espiões;50 episódios
+EX;Esquadrão Não Oficial Akibaranger;Hikonin Sentai Akibaranger;6 de Abril de 2012;Conteúdo Otaku em Geral;13 episódios
+37;Esquadrão Electrossauro Kyoryuger;Zyuden Sentai Kyoryuger;17 de Fevereiro de 2013;Dinossauros e Música;48 episódios
+EX;Esquadrão Não Oficial Akibaranger S2;Hikonin Sentai Akibaranger Season 2	4 de Abril de 2013;Conteúdo Otaku em Geral;13 episódios
+38;Esquadrão do Trem Expresso ToQger;Ressha Sentai ToQger;16 de Fevereiro de 2014;Trens e Imaginação;47 episódios
+39;Esquadrão Shuriken Ninninger;Shuriken Sentai Ninninger;22 de Fevereiro de 2015;Ninjas;47 episódios
+40;Esquadrão Animal Zyuohger;Doubutsu Sentai Zyuohger;14 de Fevereiro de 2016;Animais;48 episódios
+41;Esquadrão Espacial Kyuranger;Uchu Sentai Kyuranger;12 de Fevereiro de 2017;Espaço e Constelações;48 episódios
+42;Esquadrão de Ladrões Lupinranger VS Esquadrão Policial Patranger;Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger;11 de Fevereiro de 2018;Ladrões VS Policiais;51 episódios
+43;Esquadrão Dos Cavaleiros Ryusoulger;Kishiryu Sentai Ryusoulger;17 de Março de 2019;Cavaleiros e Dinossauros;—

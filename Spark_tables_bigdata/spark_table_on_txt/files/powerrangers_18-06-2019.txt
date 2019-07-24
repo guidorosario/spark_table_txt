@@ -1,0 +1,28 @@
+Título no Brasil;Título Original;Exibição Original (EUA);Canal fechado (BRA);Super Sentai;Tema;Temporada;Episódios
+Power Rangers;Mighty Morphin Power Rangers;28 de agosto de 1993 (Fox Kids);1994 (Fox Kids);Kyoryu Sentai Zyuranger;Dinossauros Animais pré-históricos;1;60 episódios e 1 especial
+Power Rangers;Mighty Morphin Power Rangers 2 ;21 de Julho de 1994 (Fox Kids);1994/1995 (Fox Kids);Gosei Sentai Dairanger;Animais;2;52 episódios
+Power Rangers;Mighty Morphin Power Rangers 3 ;2 de setembro de 1995 (Fox Kids);1995/1996 (Fox Kids);Ninja Sentai Kakuranger;Ninjas e Artes marciais;3;33 episódios
+Mighty Morphin Alien Rangers;Mighty Morphin Alien Rangers;5 de fevereiro de 1996 (Fox Kids);1996 (Fox Kids);Ninjas e Artes marciais	10 episódios;3;10 episódios
+Power Rangers: Zeo;Power Rangers: Zeo;20 de abril de 1996 (Fox Kids);1997 (Fox Kids);Chouriki Sentai Ohranger;Cristais Encantados;4;50 episódios
+Power Rangers: Turbo;Power Rangers: Turbo;19 de abril de 1997 (Fox Kids);1997 (Fox Kids);Gekisou Sentai Carranger;Carros;5;45 episódios
+Power Rangers: No Espaço;Power Rangers: In Space;6 de fevereiro de 1998 (Fox Kids);1999 (Fox Kids);Denji Sentai Megaranger;Espaço e Tecnologia;6;43 episódios
+Power Rangers: Galáxia Perdida;Power Rangers: Lost Galaxy;6 de fevereiro de 1999 (Fox Kids);2000 (Fox Kids);Seijuu Sentai Gingaman;Animais míticos;7;45 episódios
+Power Rangers: O Resgate;Power Rangers: Lightspeed Rescue;12 de fevereiro de 2000 (Fox Kids);2001 (Fox Kids);Kyukyu Sentai GoGoV;Missões de resgate;8;40 episódios
+Power Rangers: Força do Tempo;Power Rangers: Time Force;3 de fevereiro de 2001 (Fox Kids);Setembro de 2001 (Fox Kids);Mirai Sentai Timeranger;Futuro e Viagens no tempo;9;40 episódios
+Power Rangers: Força Animal;Power Rangers: Wild Force;9 de fevereiro de 2002 (Fox Kids);2002 (Fox Kids);Hyakujuu Sentai Gaoranger;Animais selvagens;10;40 episódios
+Power Rangers: Tempestade Ninja;Power Rangers: Ninja Storm;15 de fevereiro de 2003 (Fox Kids /Jetix);2004 (Fox Kids /Jetix);Ninpuu Sentai Hurricanger;Ninjas, Elementos e Fenômenos da Natureza;11;38 episódios
+Power Rangers: Dino Trovão;Power Rangers: Dino Thunder;14 de fevereiro de 2004 (Jetix);2005 (Jetix);Bakuryuu Sentai Abaranger;Dinossauros;12;38 episódios
+Power Rangers: SPD;Power Rangers: S.P.D. (Space Patrol Delta);5 de fevereiro de 2005 (Jetix);2006 (Jetix);2008 (Globo);Tokusou Sentai Dekaranger;Polícia;13;38 episódios
+Power Rangers: Força Mística;Power Rangers: Mystic Force;20 de fevereiro de 2006 (Jetix);2007 (Jetix);Mahou Sentai Magiranger;Magia, Criaturas Místicas;14;32 episódios
+Power Rangers: Operação Ultraveloz;Power Rangers: Operation Overdrive;27 de fevereiro de 2007 (Jetix);Fevereiro de 2008 (Jetix);Gogo Sentai Boukenger;Exploração e missões;15;32 episódios
+Power Rangers: Fúria da Selva;Power Rangers: Jungle Fury;18 de fevereiro de 2008 (Jetix/Disney XD);12 de janeiro de 2009 (Jetix/Disney XD);Juuken Sentai Gekiranger;Animais selvagens e Artes marciais;16;32 episódios
+Power Rangers: RPM;Power Rangers: RPM;7 de março de 2009 (Disney XD);15 de fevereiro de 2010 (Disney XD);Engine Sentai Go-Onger;Futuro Pós-Apocalíptico e Automobilismo;17;32 episódios
+Power Rangers: Samurai;Power Rangers: Samurai;7 de fevereiro de 2011 (Nickelodeon);11 de julho de 2011 (Nickelodeon);Samurai Sentai Shinkenger;Samurais;18;23 episódios
+Power Rangers: Super Samurai;Power Rangers: Super Samurai;18 de fevereiro de 2012 (Nickelodeon);6 de agosto de 2012 (Nickelodeon);19;22 episódios
+Power Rangers: Megaforce;Power Rangers: Megaforce;2 de fevereiro de 2013 (Nickelodeon);19 de maio de 2014 (Cartoon Network);Tensou Sentai Goseiger;Cartas místicas Animais místicos;20;22 episódios
+Power Rangers:Super Megaforce;Power Rangers Super Megaforce;15 de fevereiro de 2014 (Nickelodeon);20 de outubro de 2014 (Cartoon Network);Kaizoku Sentai Gokaiger;Piratas Transformação em Rangers do Passado;21; 20 episódios
+Power Rangers: Dino Charge;Power Rangers: Dino Charge;7 de fevereiro de 2015 (Nickelodeon);6 junho de 2015 (Cartoon Network);Zyuden Sentai Kyoryuger;Dinossauros;22;22 episódios
+Power Rangers: Dino Supercharge;Power Rangers: Dino Supercharge;30 de janeiro de 2016 (Nickelodeon);6 de junho de 2016 (Cartoon Network);Zyuden Sentai Kyoryuger;Dinossauros;23;22 episódios
+Power Rangers: Aço Ninja;Power Rangers Ninja Steel;21 de janeiro de 2017 (Nickelodeon);5 de junho de 2017 (Cartoon Network);Shuriken Sentai Ninninger;Ninjas;24;22 episódios
+Power Rangers: Super Aço Ninja;Power Rangers Super Ninja Steel;27 de janeiro de 2018 (Nickelodeon);4 de junho de 2018 (Cartoon Network);Shuriken Sentai Ninninger;Ninjas;25;22 episódios
+Power Rangers: Beast Morphers;Power Rangers: Beast Morphers;2 março de 2019 (Nickelodeon);15 de julho de 2019 (Cartoon Network);Tokumei Sentai Go-Busters;Espionagem e Animais;26;TBA

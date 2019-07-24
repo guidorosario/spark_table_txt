@@ -1,0 +1,11 @@
+INFO  time: initialize in 0.65s
+WARN  no build tool detected in workspace '/home/guilherme/Documents/BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/guilherme/Documents/BigData/Con.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/guilherme/Documents/BigData/Con.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.5s
+WARN  no build tool detected in workspace '/home/guilherme/Documents/BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/guilherme/Documents/BigData/Con.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals

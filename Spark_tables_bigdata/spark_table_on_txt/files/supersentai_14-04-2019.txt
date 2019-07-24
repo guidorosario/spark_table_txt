@@ -1,0 +1,18 @@
+Série;Título em Portuguê;Título Original;Exibição Original (Japão);Temático;Nº de Episódios
+1;Esquadrão Secreto Gorenger;Himitsu Sentai Gorenger;5 de Abril de 1975;Espionagem;84 episódios
+2;Equipe Relâmpago JAKQ;JAKQ Dengeki Tai;9 de Abril de 1977;Cartas de Baralho.;35 episódios
+3;Febre De Batalha J;Battle Fever J;3 de Fevereiro de 1979;Países e Dança;52 episódios
+4;Esquadrão Eletrônico Denziman;Denshi Sentai Denziman;3 de Fevereiro de 1980;Tecnologia Espacial;51 episódios
+5;Esquadrão Solar Sun Vulcan;Taiyou Sentai Sun Vulcan;7 de Fevereiro de 1981;Exército e Animais;50 episódios
+6;Gigantes Guerreiros Goggle V;Dai Sentai Goggle V;6 de Fevereiro de 1982;Ginástica Rítmica e Antigas Civilizações;50 episódios
+7;Esquadrão Científico Dynaman;Kagaku Sentai Dynaman;5 de Fevereiro de 1983;Ciência;51 episódios
+8;Super Elétron Bioman;Choudenshi Bioman;4 de Fevereiro de 1984;Vida e Tecnologia;51 episódios
+9;Esquadrão Relâmpago Changeman;Dengeki Sentai Changeman;2 de Fevereiro de 1985;Seres Mitológicos e Exército;55 episódios
+10;Comando Estelar Flashman;Choushinsei Flashman;1 de Março de 1986;Espaço e Luta contra Impérios Malignos;50 episódios
+11;Defensores da Luz Maskman;Hikari Sentai Maskman;28 de Fevereiro de 1987;Energia Espiritual;51 episódios
+12;Esquadrão Super Feras Liveman;Choujuu Sentai Liveman;27 de Fevereiro de 1988;Tecnologia e Animais;49 episódios
+13;Esquadrão de Alta Velocidade;Turboranger	Kousoku Sentai Turboranger;3 de Março de 1989;Carros;51 episódios
+14;Esquadrão Terrestre Fiveman;Chikyuu Sentai Fiveman;2 de Março de 1990;Educação e Esportes;48 episódios
+15;Esquadrão Homens-Pássaros Jetman;Choujin Sentai Jetman;15 de Fevereiro de 1991;Pássaros;51 episódios
+16;Esquadrão Dinossauro Zyuranger;Kyouryuu Sentai Zyuranger;21 de Fevereiro de 1992;Animais Pré-Históricos;50 episódios
+17;Esquadrão Cinco Estrelas Dairanger;Gosei Sentai Dairanger;11 de Fevereiro de 1993;Mitologia Chinesa;50 episódios

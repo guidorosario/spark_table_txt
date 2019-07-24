@@ -1,0 +1,32 @@
+Título Original;Exibição Original (Japão);Série;Nº de Episódios
+Kamen Rider	3 de Abril de 1971;1ª;98 episódios
+Kamen Rider V3;17 de Fevereiro de 1973;2ª;52 episódios
+Kamen Rider X;16 de Fevereiro de 1974;3ª;35 episódios
+Kamen Rider Amazon;19 de Outubro de 1974;4ª;24 episódios
+Kamen Rider Stronger;5 de Abril de 1975;5ª;39 episódios
+Kamen Rider (Skyrider);5 de Outubro de 1979;6ª;54 episódios
+Kamen Rider Super-1;17 de Outubro de 1980;7ª;48 episódios
+Jugo Tanjo! Kamen Rider Zen'in Shugo!!;3 de Janeiro de 1984;-;1 episódio
+Kamen Rider Black;4 de Outubro de 1987;8ª;51 episódios
+Kamen Rider Black RX;23 de Outubro de 1988;9ª;47 episódios
+Kamen Rider Kuuga;30 de Janeiro de 2000;10ª;49 episódios
+Kamen Rider Agito;28 de Janeiro de 2001;11ª;51 episódios
+Kamen Rider Ryuki;3 de Fevereiro de 2002;12ª;50 episódios
+Kamen Rider 555;26 de Janeiro de 2003;13ª;50 episódios
+Kamen Rider Blade;25 de Janeiro de 2004;14ª;49 episódios
+Kamen Rider Hibiki;30 de Janeiro de 2005;15ª;48 episódios
+Kamen Rider Kabuto;29 de Janeiro de 2006;16ª;49 episódios
+Kamen Rider Den-O;28 de Janeiro de 2007;17ª;49 episódios
+Kamen Rider Kiva;27 de Janeiro de 2008;18ª;48 episódios
+Kamen Rider Decade;25 de Janeiro de 2009;19ª;31 episódios
+Kamen Rider Double;6 de Setembro de 2009;20ª;49 episódios
+Kamen Rider OOO;5 de Setembro de 2010;21ª;48 episódios
+Kamen Rider Fourze;4 de Setembro de 2011;22ª;48 episódios
+Kamen Rider Wizard;2 de Setembro de 2012;23ª;53 episódios
+Kamen Rider Gaim;6 de Outubro de 2013;24ª;47 episódios
+Kamen Rider Drive;5 de Outubro de 2014;25ª;48 episódios
+Kamen Rider Ghost;4 de Outubro de 2015;26ª;50 episódios
+Kamen Rider Ex-Aid;2 de Outubro de 2016;27ª;45 episódios
+Kamen Rider Build;3 de Setembro de 2017;28ª;49 episódios
+Kamen Rider Zi-O;2 de Setembro de 2018;29ª;50 episódios
+Kamen Rider Zero-One;2019;30ª;TBA

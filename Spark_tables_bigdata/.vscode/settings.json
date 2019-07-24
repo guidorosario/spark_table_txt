@@ -1,0 +1,30 @@
+{
+    "python.pythonPath": "bigdata/bin/python3.6",
+    "sqltools.connections": [
+        {
+            "database": "./googlewler/sgw.db",
+            "dialect": "SQLite",
+            "name": "Guto"
+        },
+        {
+            "database": "./spark_table_on_txt/superkamen",
+            "dialect": "SQLite",
+            "name": "kamen"
+        },
+        {
+            "database": "./spark_table_on_txt/teste/superkamen.db",
+            "dialect": "SQLite",
+            "name": "def"
+        },
+        {
+            "database": "./spark_table_on_txt/super.db",
+            "dialect": "SQLite",
+            "name": "defd"
+        },
+        {
+            "database": "./spark_table_on_txt/sgw.db",
+            "dialect": "SQLite",
+            "name": "fr"
+        }
+    ]
+}
