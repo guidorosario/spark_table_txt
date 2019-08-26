@@ -6,7 +6,7 @@ import csv
 
 sc = SparkContext.getOrCreate()
 spark = SparkSession(sc)
-path = '/home/guilherme/Documents/Spark_tables_bigdata/spark_table_on_txt/files/'
+path = 'spark_table_on_txt/files/'
 file_domains = ['supersentai','kamenrider','powerrangers']
 
 
